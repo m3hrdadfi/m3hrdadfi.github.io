@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Excited to guide master's students on their thesis journey at Chalmers!
 
-Organize your courses by years, topics, or universities, however you like!
+- [Extracting key sentences from CRISPR-Cas9 articles using Sentence Transformers](https://masterthesis.cms.chalmers.se/content/developing-efficient-nlp-pipeline-biomedical-data-extraction)
+  - Supervisors: **Mehrdad Farahani**; Rasool Saghaleyni
+  - Examiner: Richard Johansson
+  - Masters: Sandra Henningsson; Brage Nicolay Lae
+
+_Got an NLP idea? Let's chat—just shoot me an email._
+
+---
+
+Also, you'll find me helping out in courses like:
+
+- [Machine learning for natural language processing](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/DAT450/)
+- [Applied Machine Learning](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/DAT341/)
+- [Introduction to data science and AI](https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/course-syllabus/DAT565/)
