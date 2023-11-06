@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm diving deep into the world of NLP and Conversational AI at Chalmers University. If you're as excited as I am about how AI will revolutionize our communication and sharing of knowledge, let's collaborate! Drop me an email!
+Hey there! I'm diving deep into the world of NLP and Conversational AI at Chalmers University. If you're as excited as I am about how AI will revolutionize our communication and sharing of knowledge, let's collaborate! Drop me [an email](https://www.m3hrdadfi.me/news/news-2023-10-04/)!
