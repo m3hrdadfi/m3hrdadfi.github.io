@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing "Scholarly Sidekick," the AI chatbot revolutionizing daily academic reading.
-date: 2023-10-04 16:11:00-0400
+date: 2023-11-12 10:10:00-0400
 inline: false
 related_posts: false
 ---
