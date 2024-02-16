@@ -48,3 +48,29 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+
+/*****************************************************************************
+* CUSTOM
+*****************************************************************************/
+
+// TODO: redefine projects layout.
+.global-color-text {
+  color: var(--global-theme-color);
+}
+
+.ps-yellow-text {
+  color: $ps-yellow-color;
+}
+
+.ps-orange-text {
+  color: $ps-orange-color;
+}
+
+.ps-red-text {
+  color: $ps-red-color;
+}
+
+.ps-blue-text {
+  color: $ps-blue-color;
+}
