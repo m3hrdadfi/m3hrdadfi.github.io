@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a doctoral researcher pursuing a PhD at Chalmers University of Technology. My research began in 2022, under the esteemed guidance of [Richard Johansson](https://www.cse.chalmers.se/~richajo/index.html) and [Gabriel Skantze](https://www.kth.se/profile/skantze), and has since evolved. As a member of the [NLP@DSAI](https://dsai-nlp.github.io/members) group at Chalmers, my research not only builds upon my initial focus on [representation learning for Conversational AI](https://www.cse.chalmers.se/~richajo/projects/wasp2022.html) but also aims to contribute to understanding and enhancing such models. Currently, I am studying mediation analysis, which is a direct extension of my curiosity to dissect the intricate memory behaviors of RAG models to better understand their decision-making processes.
+I am currently in the third year of my PhD at Chalmers University of Technology, which I began in 2022 under the supervision of [Richard Johansson (CHT)](https://www.cse.chalmers.se/~richajo/index.html) and [Gabriel Skantze (KTH)](https://www.kth.se/profile/skantze) as part of "[Representation Learning for Conversational AI](https://www.cse.chalmers.se/~richajo/projects/wasp2022.html)," project funded by [WASP](https://wasp-sweden.org/).
 
-If you're as excited as I am about how AI will revolutionize our communication and sharing of knowledge, let's collaborate!
+The main project goal is is essentially to investigate how general representations can be learned in a self-supervised manner. It has many phases including _Data consolidation_, _Representation learning_, _Model analysis_ and _Evaluation on downstream tasks_. I have decided to focus on smaller parts of this big puzzle. As a result, my research is now centered on the **controllability** and **interpretability** of language models within Conversational AI.
 
 Drop me an email `mehrdad.farahani [at] chalmers [dot] se`.

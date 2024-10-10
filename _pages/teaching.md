@@ -9,10 +9,17 @@ nav_order: 5
 
 Excited to guide master's students on their thesis journey at Chalmers!
 
-- [Extracting key sentences from CRISPR-Cas9 articles using Sentence Transformers](https://masterthesis.cms.chalmers.se/content/developing-efficient-nlp-pipeline-biomedical-data-extraction)
-  - Supervisors: **Mehrdad Farahani**; Rasool Saghaleyni
-  - Examiner: Richard Johansson
-  - Masters: Sandra Henningsson; Brage Nicolay Lae
+**2024, Knowledge Integration of LLMs with External Retrieval**
+
+- Supervisors: **Mehrdad Farahani**; Rasool Saghaleyni
+- Examiner: Richard Johansson
+- Masters: Zhi Li
+
+**2023, [Extracting key sentences from CRISPR-Cas9 articles using Sentence Transformers](https://masterthesis.cms.chalmers.se/content/developing-efficient-nlp-pipeline-biomedical-data-extraction)**
+
+- Supervisors: **Mehrdad Farahani**; Rasool Saghaleyni
+- Examiner: Richard Johansson
+- Masters: Sandra Henningsson; Brage Nicolay Lae
 
 _Got an NLP idea? Let's chat—just shoot me an email._
 
