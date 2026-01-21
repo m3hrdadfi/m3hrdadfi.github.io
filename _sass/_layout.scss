@@ -125,3 +125,26 @@ body.sticky-bottom-footer {
 .container-custom {
   max-width: 1000px;
 }
+
+
+/* Subtle lift for images on the site */
+img {
+  transition: transform 0.3s ease;
+}
+img:hover {
+  transform: scale(1.02);
+}
+
+/* Make your name look distinct in the header */
+header .post-title .fw-bold {
+  background: -webkit-linear-gradient(45deg, #333, #555);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Smooth out the News list */
+.news table td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #f0f0f0;
+}

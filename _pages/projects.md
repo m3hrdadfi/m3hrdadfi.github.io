@@ -7,6 +7,61 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+  .bib-entry {
+    padding: 15px;
+    border-radius: 8px;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+  }
+  
+  .bib-entry:hover {
+    background-color: #fcfcfc;
+    border-color: #f0f0f0;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+  }
+
+  .bib-title a {
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+  }
+  .bib-title a:hover {
+    color: #007bff; 
+  }
+
+  .bib-links .btn {
+    border-radius: 20px;
+    font-size: 0.75rem;
+    padding: 2px 10px;
+    margin-right: 5px;
+    border: 1px solid #e0e0e0;
+    color: #666;
+    background: white;
+    box-shadow: none;
+    transition: all 0.2s;
+  }
+  .bib-links .btn:hover {
+    background: #333;
+    color: white;
+    border-color: #333;
+  }
+  
+  .abstract.hidden.open, 
+  .bibtex.hidden.open {
+    background-color: #f8f9fa;
+    border-left: 3px solid #007bff;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 0 5px 5px 0;
+    font-size: 0.9rem;
+    color: #444;
+  }
+</style>
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
 <div class="container container-custom py-3">

@@ -5,6 +5,7 @@ title: Publications
 description:  Here you'll find my research papers ...
 nav: true
 nav_order: 2
+bibtex_show: true
 ---
 
 <!-- _pages/publications.md -->
